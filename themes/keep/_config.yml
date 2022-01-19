@@ -32,19 +32,19 @@ style:
 
   # Mouse hover
   hover:
-    shadow: false # shadow effect when the mouse hover
+    shadow: true # shadow effect when the mouse hover
     scale: false # scale effect when the mouse hover
 
   # First screen
   first_screen:
-    enable: false
+    enable: true
     background_img: /images/bg.svg # You can use local image or image external link
-    description: Keep writing and Keep loving.
+    description: 技术改变世界，理论改变世界观！
 
   # Scroll style settings
   scroll:
     progress_bar:
-      enable: false
+      enable: true
     percent:
       enable: false
 
@@ -81,10 +81,10 @@ menu:
 # ---------------------------------------------------------------------------------------
 home_article:
   category:
-    enable: false # show category in home page article block
+    enable: true # show category in home page article block
     limit: 3 # max number of categories shown in home page article block
   tag:
-    enable: false # show tags in home page article block
+    enable: true # show tags in home page article block
     limit: 5 # max number of tags shown in home page article block
 
 # ---------------------------------------------------------------------------------------
@@ -95,9 +95,9 @@ post:
   # Dependencies: hexo-wordcount (npm install hexo-wordcount)
   # See: https://github.com/willin/hexo-wordcount
   word_count:
-    enable: false
-    wordcount: false # word count, one article
-    min2read: false # time to read, one article
+    enable: true
+    wordcount: true # word count, one article
+    min2read: true # time to read, one article
 
   # Author label
   author_label:
@@ -120,13 +120,13 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: false
+  number: true
 
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
-  expand_all: false
+  expand_all: true
 
   # If true, open TOC every time when you enter the article page
-  init_open: false
+  init_open: true
 
 # ---------------------------------------------------------------------------------------
 # Post copyright info
@@ -153,7 +153,7 @@ website_count:
 # ---------------------------------------------------------------------------------------
 local_search:
   enable: true
-  preload: false # Preload the search data when the page loads
+  preload: true # Preload the search data when the page loads
 
 # ---------------------------------------------------------------------------------------
 # Comment plugin
@@ -172,10 +172,10 @@ comment:
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
-    github_id: # GitHub repo owner
-    repository: # Repository name to store issues
-    client_id: # GitHub Application Client ID
-    client_secret: # GitHub Application Client Secret
+    github_id: HowarZheng
+    repository: howarzheng.github.io_comments
+    client_id: bd6d279a171f4a9a7c15
+    client_secret: 5a6f27717c02d00ffafdd035dcedec1495e1cd77
 
   # Twikoo
   # See: https://github.com/imaegoo/twikoo
@@ -195,7 +195,7 @@ rss:
 # Lazyload image
 # ---------------------------------------------------------------------------------------
 lazyload:
-  enable: false
+  enable: true
 
 # ---------------------------------------------------------------------------------------
 # CDN
