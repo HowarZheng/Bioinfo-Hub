@@ -18,7 +18,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ``` bash
 $ hexo server
 ```
-nice！！
+nice！！!!
 More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
