@@ -55,7 +55,7 @@ social_contact:
   enable: true
   links:
     github: https://github.com/HowarZheng
-    weixin: # your WeChat QR-Code URL
+    weixin: https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220119/241a63f26c4a6195e9691a1c72c6586.4awmg2qh5cs0.jpg
     qq: http://wpa.qq.com/msgrd?v=3&uin=482399281&site=qq&menu=yes
     weibo: # your WeiBo URL
     zhihu: https://www.zhihu.com/people/howarzheng
