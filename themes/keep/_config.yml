@@ -174,8 +174,8 @@ comment:
   gitalk:
     github_id: HowarZheng
     repository: howarzheng.github.io_comments
-    client_id: bd6d279a171f4a9a7c15
-    client_secret: 5a6f27717c02d00ffafdd035dcedec1495e1cd77
+    client_id: 567d3a6bb56a062489e1
+    client_secret: 63d1798b829b6c76d61f7eb9e7165180e8431852
 
   # Twikoo
   # See: https://github.com/imaegoo/twikoo
