@@ -1,5 +1,5 @@
 /* global KEEP */
-<script data-ad-client="ca-pub-7835998003747351" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 
 window.addEventListener('DOMContentLoaded', () => {
 
