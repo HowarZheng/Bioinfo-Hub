@@ -189,7 +189,7 @@ comment:
 # See: https://github.com/hexojs/hexo-generator-feed
 # ---------------------------------------------------------------------------------------
 rss:
-  enable: true
+  enable: false
 
 # ---------------------------------------------------------------------------------------
 # Lazyload image
@@ -213,7 +213,7 @@ pjax:
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2022 # the starting year of your website, Can be null
+  since: 2015 # the starting year of your website, Can be null
   icp: # ICP record number of your website, Can be null
   upyun: # url
 
