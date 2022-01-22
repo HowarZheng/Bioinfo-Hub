@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.5.1
         with:
-          node-version: '16.13.2'
+          node-version: '16.x'
 
       - name: Setup Hexo
         env:
