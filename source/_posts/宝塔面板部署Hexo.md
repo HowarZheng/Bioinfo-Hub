@@ -30,7 +30,7 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 
 
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/PicBed/img/20200623114200.png#vwid=717&vhei=399)                                    
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.17prl7487ips.jpg)                                
 
 **随后，我们通过阿里云或者xshell登录我们的服务器，依次执行**
 
@@ -65,7 +65,7 @@ chmod +x /home/git/hexoBlog.git/hooks/post-receive
 
 宝塔面板默认的nginx配置文件在根目录->www->serve->nginx->conf下，找到nginx.conf，编辑它，如图：
 
-![20190819124422.png](https://cdn.jsdelivr.net/gh/hunterstreet/PicBed/img/20200622101446.png#vwid=564&vhei=351)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.6tb20aqt6280.jpg)
 
 重启Nginx服务
 
@@ -91,7 +91,7 @@ deploy:
 
 **接下来在宝塔面板里添加网站：**
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/PicBed/img/20200622101459.png#vwid=782&vhei=693)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.1jgh04usi6ao.jpg)
 
 
 
@@ -99,13 +99,13 @@ deploy:
 
 之后在阿里云将域名解析到服务器ip即可。
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/PicBed/img/20200622101515.png#vwid=1920&vhei=782)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.77d5scrkje80.jpg)
 
 ## SSL证书申请
 
 宝塔可以免费申请SSL证书，并进行强制`https`访问：
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/PicBed/img/20200622101526.png#vwid=871&vhei=806)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.39cf0vum9300.jpg)
 
 
 
