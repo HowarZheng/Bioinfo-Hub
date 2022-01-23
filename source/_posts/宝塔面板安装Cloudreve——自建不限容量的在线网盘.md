@@ -47,11 +47,11 @@ chmod +x ./cloudreve
 
 不出意外的话会跳出程序初始化界面，记得保存账号密码。
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/howarzhengblogattachments/img/20200808103038.png#vwid=581&vhei=218#vwid=581&vhei=218)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.531md2frhao0.jpg)
 
 放行 5212 端口（我是宝塔，后台添加放行端口即可 )。访问 http://ip:5212 看看程序是否正常开启，同时 Shell 也会跑出记录。
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/howarzhengblogattachments/img/20200808104715.png#vwid=1204&vhei=749)   
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/howarzhengblogattachments/img/20200808104748.png#vwid=788&vhei=389)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.1qci433lnu8w.jpg)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.2p9ow9cps2i0.jpg)
 
    
 确认无误后，Shell 面板 Ctrl+ C 结束程序运行, 配置 Systemd 进程守  
@@ -107,7 +107,7 @@ systemctl status cloudreve
 
 最后 Nginx 反代一波，宝塔添加一个站点，解析好域名, 站点修改添加反向代理:
 
-![img](https://cdn.jsdelivr.net/gh/hunterstreet/howarzhengblogattachments/img/20200808103038.png#vwid=581&vhei=218#vwid=581&vhei=218)
+![image](https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220123/image.6mhut5mfiyc.jpg)
 
 添加完反代后便可以通过自己的域名访问了，程序的部署到这里也算基本完成了。
 
