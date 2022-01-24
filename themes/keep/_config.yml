@@ -38,7 +38,7 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: /images/bg.svg # You can use local image or image external link
+    background_img: https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/blog-banner/howarzheng_com6741be0113794cc7b2325f03674d1cb2.4pqzk0qpisk0.jpg
     description: Stay Hungry, Stay Foolish
 
   # Scroll style settings
