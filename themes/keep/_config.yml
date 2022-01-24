@@ -38,7 +38,7 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/blog-banner/howarzheng_coma5c0ccc1e0884e2d9b654c44ba3b6773.5ibu642do4o0.jpg
+    background_img: https://cdn.jsdelivr.net/gh/HowarZheng/howarzheng.github.io@Figure_Bed/20220124/howarzheng_combg.4irwk6gti740.svg
     description: Stay Hungry, Stay Foolish
 
   # Scroll style settings
